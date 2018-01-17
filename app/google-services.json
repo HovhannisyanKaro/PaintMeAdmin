@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "959754340001",
+    "firebase_url": "https://whereami-a9068.firebaseio.com",
+    "project_id": "whereami-a9068",
+    "storage_bucket": "whereami-a9068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959754340001:android:6c5596f912adf808",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.whereami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959754340001-52l4rpkkj1l87c5ubv03qgdvq29grk13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwt01D6vX0Wm7ldYMTyfy_C2McKNm7P4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959754340001:android:47e86019d1c192c4",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.hkfindjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959754340001-qunru6v72tbb6o4878k9r39njgiribs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.hkfindjob",
+            "certificate_hash": "17315e3bc3efd2ec2566fec7ffc5f001361134f9"
+          }
+        },
+        {
+          "client_id": "959754340001-52l4rpkkj1l87c5ubv03qgdvq29grk13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwt01D6vX0Wm7ldYMTyfy_C2McKNm7P4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959754340001-52l4rpkkj1l87c5ubv03qgdvq29grk13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959754340001:android:81b22b2a1d8cb12f",
+        "android_client_info": {
+          "package_name": "com.example.karohovhannisyan.hkdrawingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959754340001-6ie5cnifbn6iru7jiao6fktmqe0v0t1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karohovhannisyan.hkdrawingtest",
+            "certificate_hash": "17315e3bc3efd2ec2566fec7ffc5f001361134f9"
+          }
+        },
+        {
+          "client_id": "959754340001-52l4rpkkj1l87c5ubv03qgdvq29grk13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwt01D6vX0Wm7ldYMTyfy_C2McKNm7P4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959754340001-52l4rpkkj1l87c5ubv03qgdvq29grk13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959754340001:android:ea273fa32ca9f499",
+        "android_client_info": {
+          "package_name": "timer.fityfor.me.paintmeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959754340001-757vvse4eq4br7folmf9162ppu8bb8sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "timer.fityfor.me.paintmeadmin",
+            "certificate_hash": "17315e3bc3efd2ec2566fec7ffc5f001361134f9"
+          }
+        },
+        {
+          "client_id": "959754340001-52l4rpkkj1l87c5ubv03qgdvq29grk13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwt01D6vX0Wm7ldYMTyfy_C2McKNm7P4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959754340001-52l4rpkkj1l87c5ubv03qgdvq29grk13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
